@@ -1,4 +1,4 @@
-# proxy-admin
+# kk-vue-seed
 
 > A Vue.js project
 
